@@ -93,4 +93,4 @@ Uses a pre-trained MobileNetV2 model (ImageNet) to classify images of cats and d
 ## 📌 How to Use
 1. Clone this repository:
 ```bash
-git clone https://github.com/r3hmath/quiz1_liet_workshop_Rahmath.git
+git clone https://github.com/r3hmath/quiz1_liet_workshop_Rahmath
